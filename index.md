@@ -12,15 +12,12 @@ sections:
       button: Read More
       url: //
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Details
+          description: ""
+          url: https://pa.gov.sg
+        - title: Onepa
+          description: ""
+          url: https://onepa.gov.sg
   - infobar:
       title: Infobar title
       subtitle: Subtitle
