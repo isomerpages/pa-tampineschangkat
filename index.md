@@ -9,15 +9,11 @@ sections:
   - hero:
       title: Welcome to Tampines Changkat
       background: /images/hero-banner.png
-      button: Read More
-      url: //
-      key_highlights:
-        - title: Details
-          description: ""
-          url: https://pa.gov.sg
-        - title: Onepa
-          description: ""
-          url: https://onepa.gov.sg
+      dropdown:
+        title: More
+        options:
+          - title: Item1
+            url: https://pa.gov.sg
   - infobar:
       title: Infobar title
       subtitle: Subtitle
