@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - New Subfolder/Sample Page 1.md
       - New Subfolder/.keep
       - What We Do.md
       - Contact Us.md
