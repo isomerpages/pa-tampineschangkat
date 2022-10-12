@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - New Subfolder/.keep
       - What We Do.md
       - Contact Us.md
