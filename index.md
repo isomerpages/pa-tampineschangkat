@@ -14,7 +14,7 @@ sections:
       subtitle: Visit us
       description: About a sentence worth of description here
       button: read more
-      url: //
+      url: /about-us/What-We-Do/
   - infopic:
       title: Main Title
       subtitle: Subtile
