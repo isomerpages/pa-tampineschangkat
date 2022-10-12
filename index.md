@@ -15,4 +15,12 @@ sections:
       description: About a sentence worth of description here
       button: read more
       url: //
+  - infopic:
+      title: Main Title
+      subtitle: Subtile
+      description: Infopic description
+      button: Read More
+      url: //
+      image: /images/favicon-isomer.ico
+      alt: Image alt text
 ---
