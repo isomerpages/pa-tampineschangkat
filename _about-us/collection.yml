@@ -2,7 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - New Subfolder/Sample Page 1.md
-      - New Subfolder/.keep
       - Our Adviser.md
       - Facilities.md
