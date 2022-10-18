@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - About Tampines Changkat.md
       - Our Adviser.md
