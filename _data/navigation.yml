@@ -1,9 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Home
+  - title: About Us
     collection: about-us
-  - title: Home
+  - title: Happenings-Tampines Changkat
     url: /permalink
-  - title: Menu Title
+  - title: Joy Box
+    collection: joy-box
+  - title: Contact Us
     url: /permalink
-    sublinks: []
