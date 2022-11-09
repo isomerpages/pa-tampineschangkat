@@ -3,7 +3,7 @@ title: About Joy Box
 permalink: /joy-box/About-Joy-Box/
 description: ""
 ---
-### Joy Box
+### A little kindness goes a long way
 
 ![](/images/Joy%20Box/Joy%20Box%20Banner1.png)
 
