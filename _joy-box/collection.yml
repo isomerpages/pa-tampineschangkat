@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - About Joy Box.md
-      - Contribute.md
       - Past Highlights.md
       - FAQs.md
