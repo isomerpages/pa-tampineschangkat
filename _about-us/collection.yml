@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Facilities.md
       - About Tampines Changkat.md
+      - Our Facilities.md
       - Our Adviser.md
