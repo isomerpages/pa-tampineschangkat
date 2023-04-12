@@ -14,6 +14,8 @@ Our team recognises the importance of having localised initiatives including Com
 
 There is much more we can do to build a more inclusive and caring community, and I would like to invite you to join us in this meaningful journey. 
 
+Do not hesitate to volunteer with us if you have an idea or something to contribute. 
+
 ### Joy Box 2022
 ![](/images/joy%20box%203.jpg)
 ![](/images/joy%20box%201.jpg)
