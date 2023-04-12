@@ -14,5 +14,6 @@ Possible to highlight some key projects Adviser has helmed? I think the content 
 ### Joy Box 2022
 ![](/images/joy%20box%203.jpg)
 ![](/images/joy%20box%201.jpg)
+![](/images/joy%20box%205.jpg)
 
 ### Grocery Distribution 2023 Q1
