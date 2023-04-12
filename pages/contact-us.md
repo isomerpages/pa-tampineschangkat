@@ -18,6 +18,6 @@ contacts:
   - content:
       - phone: +65 6781 1806
       - email: pa_tampines_changkat@pa.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: Main Line
 ---
