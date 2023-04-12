@@ -14,7 +14,7 @@ sections:
         title: Curious about us?
         options:
           - title: Joy Box
-            url: ""
+            url: /joy-box/About-Joy-Box/
   - infobar:
       title: More details
       subtitle: Visit us
