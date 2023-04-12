@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Adviser's Message/.keep
-      - About Tampines Changkat.md
       - Our Adviser.md
