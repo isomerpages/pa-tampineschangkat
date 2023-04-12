@@ -16,14 +16,12 @@ sections:
           - title: Joy Box
             url: /joy-box/About-Joy-Box/
   - infobar:
-      title: More details
-      subtitle: Visit us
-      description: About a sentence worth of description here
-      button: read more
+      title: Volunteer with us
+      subtitle: Keen to contribute?
+      button: make changes here
       url: /about-us/What-We-Do/
   - infopic:
-      title: Main Title
-      subtitle: Subtile
+      title: Tampines Changkat CC
       description: Infopic description
       button: Read More
       url: //
