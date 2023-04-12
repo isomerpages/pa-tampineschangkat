@@ -4,11 +4,17 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: This is site notification
+notification: ""
 sections:
   - hero:
-      title: Welcome to Tampines Changkat
-      background: /images/hero-banner.png
+      title: Welcome to Tampines Changkat CC
+      background: /images/joy box 4.jpg
+      subtitle: "#ShowingCareTheChangkatWay"
+      dropdown:
+        title: Curious about us?
+        options:
+          - title: Joy Box
+            url: ""
   - infobar:
       title: More details
       subtitle: Visit us
