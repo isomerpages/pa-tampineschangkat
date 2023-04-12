@@ -13,7 +13,7 @@ locations:
         time: 10am - 6.00pm
         description: Closed on Public Holidays (PH) and PH in-lieu
     maps_link: ""
-    title: Temporary CC
+    title: Temporary Office
 contacts:
   - content:
       - phone: +65 6781 1806
