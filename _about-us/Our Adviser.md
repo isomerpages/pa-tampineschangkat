@@ -8,8 +8,7 @@ description: ""
 **Mayor of North East District |**
 **Adviser to Tampines GROs**
 
-   
-Possible to highlight some key projects Adviser has helmed? I think the content here can be more focused on GRA’s efforts. Would be nice to have some photos of him at events/interaction with residents too
+Mr Desmond Chooo recognised the importance of having localised initiatives including Comcare Financial Assistance, Public Transport Voucher, CDC Voucher, 100=50 and others. Additionally, he has lead the team of staff and volunteers to develop targeted programmes, such as Grocery Distribution, Joy Box and more, to support different vulnerable groups in the community.
 
 ### Joy Box 2022
 ![](/images/joy%20box%203.jpg)
