@@ -2,6 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Adviser's Message/About Tampines Changkat.md
       - Adviser's Message/.keep
       - Our Adviser.md
