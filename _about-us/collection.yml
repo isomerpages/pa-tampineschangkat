@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Getting To Us.md
-      - Contact Us.md
       - About Tampines Changkat.md
       - Our Facilities.md
       - Our Adviser.md
