@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Getting To Us.md
       - Contact Us.md
       - About Tampines Changkat.md
       - Our Facilities.md
