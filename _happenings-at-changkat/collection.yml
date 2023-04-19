@@ -2,4 +2,5 @@ collections:
   happenings-at-changkat:
     output: true
     order:
+      - Grocery Distribution.md
       - Happenings at Tampines Changkat.md
