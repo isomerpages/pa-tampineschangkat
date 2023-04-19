@@ -10,11 +10,6 @@ sections:
       title: Welcome to Tampines Changkat CC
       background: /images/joy box 4.jpg
       subtitle: "#ShowingCareTheChangkatWay"
-      dropdown:
-        title: Curious about us?
-        options:
-          - title: Joy Box
-            url: /joy-box/About-Joy-Box/
   - infobar:
       title: Volunteer with us
       subtitle: Keen to contribute?
