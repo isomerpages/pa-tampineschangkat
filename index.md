@@ -13,13 +13,14 @@ sections:
   - infobar:
       title: Volunteer with us
       subtitle: Keen to contribute?
-      button: make changes here
+      button: Register Today
       url: /about-us/What-We-Do/
+      description: Feel the true happiness by giving hope and care.
   - infopic:
-      title: Tampines Changkat CC
-      description: Infopic description
-      button: Read More
+      title: Our Residents' Network
+      description: Do know which RN you belong to?
+      button: Click to find out more
       url: //
-      image: /images/favicon-isomer.ico
+      image: /images/list of rn.png
       alt: Image alt text
 ---
