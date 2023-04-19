@@ -2,5 +2,6 @@ collections:
   happenings-at-changkat:
     output: true
     order:
+      - Project Refresh.md
       - Grocery Distribution.md
       - Happenings at Tampines Changkat.md
