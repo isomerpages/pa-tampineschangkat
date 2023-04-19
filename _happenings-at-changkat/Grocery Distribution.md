@@ -6,12 +6,13 @@ description: ""
 ### Upcoming: 17 June 2023 (Sat) ### 
 ![](/images/endorsed_-tampines-ccc-cdwf-donation-drive-poster-_18-mar-2023_.png)
 
-At Tampines Changkat, we believe that having meal on table is a fundamental need of every family. 
+At Tampines Changkat, we believe that having a meal on the table is a fundamental need of every family. 
 
-Since Year 2022, it has been an ongoing effort organise Grocery Distribution and/or Donation Drive to provide grocery and daily necessities to underprivileged families staying within Tampines Changkat. Through this heart-warming initiative, we aim to help families cope with the economic impacts of pandemic or limitations faced in daily life. 
+Since 2022, it has been an ongoing effort to organise Grocery Distribution and/or Donation Drive to provide grocery and daily necessities to underprivileged families staying in Tampines Changkat. Through this heart-warming initiative, we aim to help families cope with the economic impacts of pandemic or limitations faced in daily life. 
 
 In every edition, Tampines Changkat will be looking for generous sponsors and volunteers to ensure that there are enough items and manpower available for distribution of grocery packs to families in need. If you are looking for a meaningful way to give back to the community and make a positive impact, this is the perfect opportunity! 
 
 Join the Tampines Changkat Grocery Distribution team and make a difference in the lives of those who need it most. Click here to volunteer for our next edition.
 
 ![](/images/img-3504.JPG)
+*Year 2023 Q1 Grocery Distribution*
