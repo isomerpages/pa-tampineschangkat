@@ -1,4 +1,5 @@
 collections:
   happenings-at-changkat:
     output: true
-    order: []
+    order:
+      - Happenings at Tampines Changkat.md
