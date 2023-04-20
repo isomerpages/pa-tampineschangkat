@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Baju Kurung.md
-      - Project Refresh.md
       - Grocery Distribution.md
