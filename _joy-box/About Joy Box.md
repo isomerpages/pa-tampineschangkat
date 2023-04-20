@@ -11,4 +11,6 @@ Joy Box is initiated by Tampines Changkat in 2020 to spread joy to those around 
 
 The fourth edition of Joy Box will be happening on 17 Dec 2022. Registration has closed.
 
+Interested to join the team? [Volunteer now!](https://form.gov.sg/63e61a35b1cf750011109bd7)
+
 Look out for upcoming Joy Box editions on our [Facebook](https://www.facebook.com/tampines.changkat)!
