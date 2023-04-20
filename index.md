@@ -23,7 +23,7 @@ sections:
       subtitle: Keen to contribute?
       description: Feel the true happiness by giving hope and care.
       button: Register Today
-      url: /about-us/What-We-Do/
+      url: https://form.gov.sg/63e61a35b1cf750011109bd7
       alt: Image alt text
       image: /images/volunteer photo.jpg
 ---
