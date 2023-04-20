@@ -16,7 +16,7 @@ sections:
       description: Do know which RN you belong to?
       button: Click to find out more
       url: //
-      image: /images/volunteer photo.jpg
+      image: /images/details of rn under changkat.png
       alt: Image alt text
   - infopic:
       title: Volunteer with us
@@ -25,4 +25,5 @@ sections:
       button: Register Today
       url: /about-us/What-We-Do/
       alt: Image alt text
+      image: /images/volunteer photo.jpg
 ---
