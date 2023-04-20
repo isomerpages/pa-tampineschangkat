@@ -1,0 +1,4 @@
+collections:
+  local-heroes:
+    output: true
+    order: []
