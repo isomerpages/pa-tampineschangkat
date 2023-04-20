@@ -1,4 +1,5 @@
 collections:
   local-heroes:
     output: true
-    order: []
+    order:
+      - Abdullah's Simple Kind Act.md
