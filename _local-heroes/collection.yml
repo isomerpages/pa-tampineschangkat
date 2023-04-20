@@ -2,4 +2,5 @@ collections:
   local-heroes:
     output: true
     order:
+      - Baju Kurong Donation Drive.md
       - Abdullah's Simple Kind Act.md
