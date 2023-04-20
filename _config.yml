@@ -3,12 +3,12 @@ url: https://www.tampineschangkat.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#316bb6"
-  secondary-color: "#fdc702"
+  secondary-color: "#4a90e2"
   media-colors:
     - title: media-color-one
-      color: "#ead477"
+      color: "#fdc702"
     - title: media-color-two
-      color: "#f2f097"
+      color: "#f8e71c"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
