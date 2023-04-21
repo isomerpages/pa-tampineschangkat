@@ -2,6 +2,7 @@ collections:
   happenings-at-changkat:
     output: true
     order:
+      - About Joy Box.md
       - Joy Box/.keep
       - Baju Kurung Donation Drive.md
       - Grocery Distribution.md
