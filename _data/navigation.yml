@@ -2,9 +2,7 @@ logo: /images/combination of logo.JPG
 links:
   - title: About Us
     collection: about-us
-  - title: Happenings @ Tampines Changkat
-    url: /Happenings-At-Tampines-Changkat/
-  - title: Joy Box
-    collection: joy-box
   - title: Contact Us
     url: /Contact-us/
+  - title: Happenings @ Chankat
+    collection: happenings-at-changkat
