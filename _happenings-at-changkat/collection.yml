@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About Joy Box.md
+      - Joy Box/Past Highlights.md
       - Joy Box/.keep
       - Baju Kurung Donation Drive.md
       - Grocery Distribution.md
