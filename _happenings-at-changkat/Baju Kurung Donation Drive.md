@@ -3,7 +3,7 @@ title: Baju Kurung Donation Drive
 permalink: /happenings-at-changkat/baju-kurung-donation-drive/
 description: ""
 ---
-## Our belief: Every individual deserves to look and feel their best. ##
+## Our belief: Every individual deserves to look and feel their best. 
 
 Baju Kurung Marketplace is where fashion meets magnanimity! Every year, our generous team of volunteers and sponsors will put up a stunning collection of clothes for residents collection and look fabulous during Hari Raya. 
 
