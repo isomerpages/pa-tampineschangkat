@@ -1,5 +1,4 @@
 collections:
   joy-box:
     output: true
-    order:
-      - FAQs.md
+    order: []
