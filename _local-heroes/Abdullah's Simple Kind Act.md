@@ -10,7 +10,3 @@ Showing our appreciation for our Grassroots Leader, Mr Abdullah Abdul Rahman. Be
 Are you feeling encouraged by his example? Simple acts of kindness can make a huge difference in someone's life, and volunteering is a great way to make a positive impact in your community. 
 
 Hesistate no more, click [here](https://form.gov.sg/63e61a35b1cf750011109bd7) to join Mr Abdullah in his kindness movement now!
-
-
-
-
