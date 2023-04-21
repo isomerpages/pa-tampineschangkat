@@ -2,6 +2,7 @@ collections:
   happenings-at-changkat:
     output: true
     order:
+      - Joy Box/About Joy Box.md
       - Joy Box/FAQs.md
       - Joy Box/Past Highlights.md
       - Joy Box/.keep
