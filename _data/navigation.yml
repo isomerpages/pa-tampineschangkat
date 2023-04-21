@@ -4,7 +4,7 @@ links:
     collection: about-us
   - title: Happenings @ Chankat
     collection: happenings-at-changkat
-  - title: Contact Us
-    url: /Contact-us/
   - title: Local Heros
     collection: local-heroes
+  - title: Contact Us
+    url: /Contact-us/
