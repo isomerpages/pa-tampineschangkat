@@ -2,7 +2,9 @@ logo: /images/combination of logo.JPG
 links:
   - title: About Us
     collection: about-us
-  - title: Contact Us
-    url: /Contact-us/
   - title: Happenings @ Chankat
     collection: happenings-at-changkat
+  - title: Contact Us
+    url: /Contact-us/
+  - title: Local Heros
+    collection: local-heroes
