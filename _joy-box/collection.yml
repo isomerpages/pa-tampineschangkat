@@ -2,6 +2,5 @@ collections:
   joy-box:
     output: true
     order:
-      - About Joy Box.md
       - Past Highlights.md
       - FAQs.md
