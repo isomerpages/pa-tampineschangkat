@@ -6,6 +6,5 @@ links:
     collection: happenings-at-changkat
   - title: Local Heroes
     collection: local-heroes
-  - title: Contact us
+  - title: Contact Us
     url: /contact-us
-    sublinks: []
