@@ -5,7 +5,7 @@ description: ""
 ---
 ## Our belief: Having a meal on the table is a fundamental need of every family. 
 
-##### Upcoming: 17 June 2023 (Sat) #####
+##### Upcoming distribution: 17 June 2023 (Sat) #####
 
 Since 2022, it has been an ongoing effort to organise Grocery Distribution and/or Donation Drive to provide grocery and daily necessities to underprivileged families staying in Tampines Changkat. Through this heart-warming initiative, we aim to help families cope with the economic impacts of pandemic or limitations faced in daily life. 
 
