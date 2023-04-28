@@ -13,8 +13,7 @@ sections:
   - infobar: {}
   - infopic:
       title: Our Residents' Network
-      description: Do you know which RN you belong to?
-      button: Click to find out more
+      description: Do you know which Zone you belong to?
       url: //
       image: /images/details of rn under changkat.png
       alt: Image alt text
