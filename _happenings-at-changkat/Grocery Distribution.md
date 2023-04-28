@@ -11,7 +11,7 @@ Since 2022, it has been an ongoing effort to organise Grocery Distribution and/o
 
 In every edition, Tampines Changkat will be looking for generous sponsors and volunteers to ensure that there are enough items and manpower available for distribution of grocery packs to families in need. If you are looking for a meaningful way to give back to the community and make a positive impact, this is the perfect opportunity! 
 
-Join the Tampines Changkat Grocery Distribution team and make a difference in the lives of those who need it most. Click here to volunteer for our next edition.
+[Join](https://form.gov.sg/63e61a35b1cf750011109bd7) the Tampines Changkat Grocery Distribution team and make a difference in the lives of those who need it most. 
 
 *Year 2023 Q1 Grocery Distribution*
 ![](/images/img-3678.JPG)
@@ -21,5 +21,3 @@ Join the Tampines Changkat Grocery Distribution team and make a difference in th
 ![](/images/img-3679.JPG)
 
 ![](/images/img-3680.JPG)
-
-Interested to join the team? [Volunteer now!](https://form.gov.sg/63e61a35b1cf750011109bd7)
