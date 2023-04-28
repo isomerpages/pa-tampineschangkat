@@ -10,7 +10,7 @@ Frequently Asked Questions
 
 **When and where can I drop off my gift box?**
 
-You can drop them off between 1 November to 27 November 2022, during weekdays 9am to 6pm at Blk 285, #01-217, Tampines Street 22 Singapore 520285.
+More details of the drop off will be shared when available. 
 
 **I do not have sufficient details of my beneficiary from the email. How should I prepare the gift?**
 
