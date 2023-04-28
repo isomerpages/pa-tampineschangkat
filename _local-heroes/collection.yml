@@ -2,5 +2,5 @@ collections:
   local-heroes:
     output: true
     order:
-      - Baju Kurung Donation Drive.md
+      - Baju Kurung Distribution.md
       - Abdullah’s story on kindness.md
