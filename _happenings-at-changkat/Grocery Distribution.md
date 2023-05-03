@@ -14,10 +14,13 @@ In every edition, Tampines Changkat will be looking for generous sponsors and vo
 [Join](https://form.gov.sg/63e61a35b1cf750011109bd7) the Tampines Changkat Grocery Distribution team and make a difference in the lives of those who need it most. 
 
 *Year 2023 Q1 Grocery Distribution*
-![](/images/img-3678.JPG)
+<img style="width:600px" src="/images/img-3678.JPG">
 
-![](/images/img-3504.JPG)
 
-![](/images/img-3679.JPG)
+<img style="width:600px" src="/images/img-3504.JPG">
 
-![](/images/img-3680.JPG)
+
+<img style="width:600px" src="/images/img-3679.JPG">
+
+
+<img style="width:600px" src="/images/img-3680.JPG">
