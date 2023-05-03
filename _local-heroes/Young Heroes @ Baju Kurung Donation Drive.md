@@ -3,9 +3,9 @@ title: Young Heroes @ Baju Kurung Donation Drive
 permalink: /local-heroes/baju-kurung-donation-drive/
 description: ""
 ---
-![](/images/wani%20sulaiman.JPG)
+<img style="width:600px" src="/images/wani%20sulaiman.JPG">
 
-![](/images/aloysius%20and%20irfan.JPG)
+<img style="width:600px" src="/images/aloysius%20and%20irfan.JPG">
 
 There's something truly special about volunteers who go out of their way to make the Tampines Changkat a better place to stay in. 
 
