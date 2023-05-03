@@ -15,7 +15,7 @@ Our team recognises the importance of having localised initiatives including Com
 
 There is much more we can do to build a more inclusive and caring community, and I would like to invite you to join us in this meaningful journey. 
 
-Do not hesitate to volunteer with us if you have an idea to contribute. 
+Do not hesitate to [volunteer](https://form.gov.sg/63e61a35b1cf750011109bd7) with us if you have an idea to contribute. 
 
 ### Joy Box 2022
 <img style="width:600px" src="/images/joy%20box%203.jpg"><br>
