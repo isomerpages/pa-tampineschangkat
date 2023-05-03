@@ -9,12 +9,16 @@ Baju Kurung Marketplace is where fashion meets magnanimity! Every year, our gene
 
 The latest edition of Baju Kurung Marketplace in March 2023 has exceeded our expectations! We would like to extend our gratitude to our exceptional volunteers who dedicated their time and energy to make this a triumph. 
 
-![](/images/img-3684.JPG)
+<img style="width:600px" src="/images/img-3684.JPG">
 
-![](/images/img-3682.JPG)
 
-![](/images/img-3681.JPG)
+<img style="width:600px" src="/images/img-3682.JPG">
 
-![](/images/img-3683.JPG)
+
+<img style="width:600px" src="/images/img-3681.JPG">
+
+
+<img style="width:600px" src="/images/img-3683.JPG">
+
 
 Interested to be part of this initiative? [Volunteer now!](https://form.gov.sg/63e61a35b1cf750011109bd7)
