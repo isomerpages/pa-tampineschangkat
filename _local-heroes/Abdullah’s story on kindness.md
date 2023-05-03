@@ -3,7 +3,7 @@ title: Abdullah’s story on kindness
 permalink: /local-heroes/abdullah-story-on-kindness/
 description: ""
 ---
-![](/images/abdullah.JPG)
+<img style="width:600px" src="/images/abdullah.JPG">
 
 Being a community connector, our Grassroots leader, Mr Abdullah Abdul Rahman sees value in taking time out of his busy schedule to set up seasonal decorations along the corridor for his senior neighbours to spread the festive cheer. Check out the [interview](https://youtu.be/IXHRR72C7KQ) done by Mothership with our lovely Mr Abdullah. 
 
