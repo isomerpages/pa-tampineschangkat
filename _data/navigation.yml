@@ -1,15 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/combination of logo.JPG
 links:
+  - title: About Us
+    collection: about-us
+  - title: Happenings @ Changkat
+    collection: happenings-at-changkat
+  - title: Local Heroes
+    collection: local-heroes
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /contact-us

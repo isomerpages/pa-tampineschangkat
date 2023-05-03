@@ -1,0 +1,6 @@
+collections:
+  local-heroes:
+    output: true
+    order:
+      - Young Heroes @ Baju Kurung Donation Drive.md
+      - Abdullah’s story on kindness.md
