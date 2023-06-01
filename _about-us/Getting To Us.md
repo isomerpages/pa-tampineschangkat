@@ -22,4 +22,4 @@ The CC building is undergoing renovation to serve you better by Year 2024 Q1. Cu
 
 **By Car**:
 
-*  HDB Car Park in between Blk 285 and Blk 286
+*  HDB Car Park in between Blk 285 and Blk 286 Tampines St 22

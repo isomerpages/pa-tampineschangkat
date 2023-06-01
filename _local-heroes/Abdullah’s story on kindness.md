@@ -5,7 +5,7 @@ description: ""
 ---
 <img style="width:600px" src="/images/abdullah.JPG">
 
-Being a community connector, our Grassroots leader, Mr Abdullah Abdul Rahman sees value in taking time out of his busy schedule to set up seasonal decorations along the corridor for his senior neighbours to spread the festive cheer. Check out the [interview](https://youtu.be/IXHRR72C7KQ) done by Mothership with our lovely Mr Abdullah. 
+Being a community connector, our Grassroots leader, Mr Abdullah Abdul Rahman sees value in taking time out of his busy schedule to set up seasonal decorations along the corridor for his senior neighbours to spread the festive cheer.
 
 Feeling encouraged by his example? Simple acts of kindness can make a huge difference in someone's life, and volunteering is a great way to make a positive impact in your community. 
 
