@@ -25,6 +25,3 @@ Do not hesitate to [volunteer](https://form.gov.sg/63e61a35b1cf750011109bd7) wit
 
 ### Grocery Distribution 2023 Q1
 
-<img style="width:600px" src="/images/img-3502.JPG"><br>
-<img style="width:600px" src="/images/img-3503.JPG"><br>
-<img style="width:600px" src="/images/img-3505.JPG">
