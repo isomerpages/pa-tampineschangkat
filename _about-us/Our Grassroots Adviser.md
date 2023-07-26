@@ -24,6 +24,6 @@ Do not hesitate to [volunteer](https://form.gov.sg/63e61a35b1cf750011109bd7) wit
 
 
 ### Grocery Distribution 2023
-<img style="width:600px" src="/images/grocery%20distribution.jpg"><br>
+<img style="width:600px" src="/images/grocery%20distribution%20group.jpg"><br>
 <img style="width:600px" src="/images/img-3679.JPG"><br>
 <img style="width:600px" src="/images/img-3505.JPG"><br>
