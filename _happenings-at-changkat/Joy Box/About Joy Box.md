@@ -10,4 +10,6 @@ third_nav_title: Joy Box
 
 Joy Box is initiated by Tampines Changkat in 2020 to spread joy to those around us who are less privileged. During festive seasons, we hope to spread joy to our seniors, families and individuals, some of whom may be going through a tough time. Over past few editions, we have delivered over 3,000 joy boxes.
 
-The upcoming edition will be in December 2023. Look out for upcoming Joy Box editions on our [Facebook](https://www.facebook.com/tampines.changkat)!
+The upcoming edition will be in December 2023. Register your interest by scanning the QR code or visit https://go.gov.sg/joybox2023.
+
+Look out for the upcoming Joy Box updated on our [Facebook](https://www.facebook.com/tampines.changkat)!
