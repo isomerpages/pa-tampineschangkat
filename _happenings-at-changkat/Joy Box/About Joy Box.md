@@ -12,6 +12,4 @@ Joy Box is initiated by Tampines Changkat in 2020 to spread joy to those around 
 
 The upcoming edition will be in December 2023. [Sign up]( https://go.gov.sg/joybox2023) your interest with us now.
 
-
-
 Look out for the upcoming Joy Box updates on our [Facebook](https://www.facebook.com/tampines.changkat)!
