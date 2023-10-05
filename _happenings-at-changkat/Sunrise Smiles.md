@@ -7,8 +7,8 @@ description: ""
 
 ##### Sunrise Smiles #####
 
-- Breakfast Set at $2.00: Inclusive of a cup of hot kopi/teh, 2 slices of kaya butter toast and 1 soft-boiled egg
-- Hot coffee / tea at $0.60 each
+- **Breakfast Set at $2.00:** Inclusive of a cup of hot kopi/teh, 2 slices of kaya butter toast and 1 soft-boiled egg
+- **Hot coffee / tea at $0.60 each**
 
 **Terms and Conditions:**
 - Breakfast deals are valid from 28 October 2023 to 27 October 2024
