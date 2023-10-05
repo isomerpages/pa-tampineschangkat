@@ -11,6 +11,7 @@ description: ""
 - Hot coffee / tea at $0.60 each
 
 **Terms and Conditions:**
+- Breakfast deals are valid from 28 October 2023 to 27 October 2024
 - Breakfast deals are valid for dine-in only between 7.00am to 11.00am 
 - Breakfast deals are only valid on the specific day listed for respective participating food courts and coffeeshops
 - Not valid with other promotion, discount, value meal, and/or membership privileges
