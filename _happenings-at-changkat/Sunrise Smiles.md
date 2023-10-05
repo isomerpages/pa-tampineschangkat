@@ -5,7 +5,7 @@ description: ""
 ---
 ## Our belief: Enhancing the well-being of the people we serve.
 
-##### Sunrise Smiles #####
+##### **Sunrise Smiles** #####
 
 - **Breakfast Set at $2.00:** Inclusive of a cup of hot kopi/teh, 2 slices of kaya butter toast and 1 soft-boiled egg
 - **Hot coffee / tea at $0.60 each**
