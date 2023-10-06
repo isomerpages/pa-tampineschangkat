@@ -7,7 +7,7 @@ description: ""
 
 ##### **Sunrise Smiles** #####
 
-- **Breakfast Set at $2.00:** Inclusive of a cup of hot kopi/teh, 2 slices of kaya butter toast and 1 soft-boiled egg
+- **Breakfast Set at $2.00:** Inclusive of a cup of hot coffee/tea, 2 slices of kaya butter toast and 1 soft-boiled egg
 - **Hot coffee / tea at $0.60 each**
 
 |Day | Participating food courts and coffeeshops | |
