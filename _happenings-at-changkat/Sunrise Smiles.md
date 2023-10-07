@@ -3,7 +3,7 @@ title: Sunrise Smiles
 permalink: /happenings-at-changkat/sunrise-smiles/
 description: ""
 ---
-## Our belief: Enhancing the well-being of the people we serve.
+## Our belief: We firmly believe in making a positive impact on our community by providing value and affordability through our Sunrise Smiles initiative.
 
 ##### **Sunrise Smiles** #####
 
