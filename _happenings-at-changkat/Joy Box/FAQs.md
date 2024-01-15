@@ -1,8 +1,9 @@
 ---
 title: FAQs
-permalink: /joy-box/FAQs/
-description: ""
+permalink: /joy-box/faqs/
+description: Joy Box FAQs
 third_nav_title: Joy Box
+variant: tiptap
 ---
 Frequently Asked Questions
 --------------------------

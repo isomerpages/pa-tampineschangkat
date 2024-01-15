@@ -1,8 +1,9 @@
 ---
 title: About Joy Box
-permalink: /joy-box/About-Joy-Box/
-description: ""
+permalink: /joy-box/about-joy-box/
+description: About Joy Box
 third_nav_title: Joy Box
+variant: tiptap
 ---
 ## Our Belief: A little kindness goes a long way
 

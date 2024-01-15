@@ -1,11 +1,12 @@
 ---
 title: Sunrise Smiles
 permalink: /happenings-at-changkat/sunrise-smiles/
-description: ""
+description: Sunrise Smiles
+variant: markdown
 ---
 ## Our belief: We firmly believe in making a positive impact on our community by providing value and affordability through our Sunrise Smiles initiative.
 
-##### **Sunrise Smiles** #####
+### **Sunrise Smiles** ###
 
 - **Breakfast Set at $2.00:** Inclusive of a cup of hot coffee/tea, 2 slices of kaya butter toast and 1 soft-boiled egg
 - **Hot coffee / tea at $0.60 each**
