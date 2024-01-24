@@ -1,0 +1,10 @@
+logo: /images/combination of logo.JPG
+links:
+  - title: About Us
+    collection: about-us
+  - title: Happenings @ Changkat
+    collection: happenings-at-changkat
+  - title: Local Heroes
+    collection: local-heroes
+  - title: Contact Us
+    url: /contact-us
