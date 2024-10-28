@@ -26,7 +26,7 @@ Sundays | Fu Chan Coffeeshop @ Blk 139 Tampines Street 11 | Kim San Leng Kopitia
 
 
 **Terms and Conditions:**
-- Breakfast deals are valid from 28 October 2023 to 27 October 2024
+- Breakfast deals are valid from 28 October 2024 to 27 October 2025
 - Breakfast deals are valid for dine-in only between 7.00am to 11.00am 
 - Breakfast deals are only redeemable via self-service
 - Breakfast deals are only valid on the specific day listed for respective participating food courts and coffeeshops
