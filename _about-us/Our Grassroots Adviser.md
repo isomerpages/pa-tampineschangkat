@@ -2,6 +2,7 @@
 title: Our Grassroots Adviser
 permalink: /about-us/our-grassroots-adviser/
 description: ""
+variant: markdown
 ---
 #### Message from Mr Desmond Choo
 
@@ -17,13 +18,3 @@ There is much more we can do to build a more inclusive and caring community, and
 
 Do not hesitate to [volunteer](https://form.gov.sg/63e61a35b1cf750011109bd7) with us if you have an idea to contribute. 
 
-### Joy Box 2022
-<img style="width:600px" src="/images/joy%20box%203.jpg"><br>
-<img style="width:600px" src="/images/joy%20box%201.jpg"><br>
-<img style="width:600px" src="/images/joy%20box.jpg"><br>
-
-
-### Grocery Distribution 2023
-<img style="width:600px" src="/images/grocery%20distribution%20group.jpg"><br>
-<img style="width:600px" src="/images/img-3679.JPG"><br>
-<img style="width:600px" src="/images/img-3505.JPG"><br>
