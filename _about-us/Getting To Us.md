@@ -15,6 +15,8 @@ We are located at **13 Tampines Street 11, Singapore 529453**.
 Tampines MRT Station (EW2/DT32)
 * Take the East-West Line (Green Line) or Downtown Line (Blue Line).
 * From the station, you can:
+	* Walk: Approximately 10-15 minutes.
+	* Take a bus: Transfer to Bus 291 (East Loop) or Bus 292.
 
 
 **By Bus**:
