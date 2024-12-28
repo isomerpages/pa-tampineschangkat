@@ -17,9 +17,16 @@ We are located at **13 Tampines Street 11, Singapore 529453**.
 
 **By Bus**:
 
-*  Blk 285 - 8, 17, 18, 20, 28, 34, 39, 59, 292, 518
-*  Blk 206 - 3, 8, 17, 18, 20, 28, 34, 39, 59, 518
+From Tampines Bus Interchange:
+
+Take Bus 291 (East Loop) or Bus 292.
+
+Alight at 
+* Blk 108 Tampines Street 11 (for Bus 291)
+* Opp Blk 136 Tampines Street 11 (for Bus 292)
+
+Walk approximately 2-3 minutes to Tampines Changkat CC.
 
 **By Car**:
 
-*  HDB Car Park in between Blk 285 and Blk 286 Tampines St 22
+*  Parking is available at nearby HDB car parks along Tampines Street 11.
