@@ -8,7 +8,8 @@ variant: markdown
 
 <img style="width:600px" src="/images/About%20Us/for%20website.jpg">
 
-**Mayor of North East District Grassroots Adviser to Tampines GROs**
+**Mayor of North East District,**
+**Grassroots Adviser to Tampines GRC GROs**
 
 At Tampines Changkat, our team of staff and volunteers are motivated by our mission to build a strong and resilient community. To ensure that we cater range of activities and resources that support our residents effectively, our team has been actively listening to the ground sensing related to residents’ emerging needs.
 
@@ -16,5 +17,4 @@ Our team recognises the importance of having localised initiatives including Com
 
 There is much more we can do to build a more inclusive and caring community, and I would like to invite you to join us in this meaningful journey. 
 
-Do not hesitate to [volunteer](https://form.gov.sg/63e61a35b1cf750011109bd7) with us if you have an idea to contribute. 
-
+Do not hesitate to [volunteer](https://form.gov.sg/63e61a35b1cf750011109bd7) with us if you have an idea to contribute.
