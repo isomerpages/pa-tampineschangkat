@@ -11,13 +11,13 @@ locations:
     operating_hours:
       - days: Mon - Sun
         time: 10.00am - 6.00pm
-        description: Closed on Public Holidays (PH) and PH in-lieu
+        description: Closed on Public Holidays
     maps_link: ""
     title: Tampines Changkat Constituency Office
 contacts:
   - content:
       - phone: +65 6781 1806
-      - email: pa_tampines_changkat@pa.gov.sg
+      - email: pa_tampineschangkatcc@pa.gov.sg
       - other: ""
     title: Main Line
 feedback: ""
