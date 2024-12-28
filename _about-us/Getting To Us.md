@@ -19,13 +19,13 @@ We are located at **13 Tampines Street 11, Singapore 529453**.
 
 From Tampines Bus Interchange:
 
-Take Bus 291 (East Loop) or Bus 292.
+* Take Bus 291 (East Loop) or Bus 292.
 
-Alight at 
-* Blk 108 Tampines Street 11 (for Bus 291)
-* Opp Blk 136 Tampines Street 11 (for Bus 292)
+* Alight at 
+	* Blk 108 Tampines Street 11 (for Bus 291)
+	* Opp Blk 136 Tampines Street 11 (for Bus 292)
 
-Walk approximately 2-3 minutes to Tampines Changkat CC.
+* Walk approximately 2-3 minutes to Tampines Changkat CC.
 
 **By Car**:
 
