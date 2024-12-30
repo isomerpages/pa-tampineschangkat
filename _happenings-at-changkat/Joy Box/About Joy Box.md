@@ -14,5 +14,4 @@ around us who are less privileged. During festive seasons, we hope to spread
 joy to our seniors, families and individuals, some of whom may be going
 through a tough time. Over past few editions, we have delivered over 3,000
 joy boxes.</p>
-<p>The upcoming edition will be in December 2024. <a href="https://go.gov.sg/joybox24" rel="noopener nofollow" target="_blank">Sign up</a> your interest with us now.</p>
 <p>Look out for the upcoming Joy Box updates on our <a href="https://www.facebook.com/tampines.changkat" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>!</p>
