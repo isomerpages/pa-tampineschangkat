@@ -15,12 +15,4 @@ sections:
       url: //
       image: /images/details of rn under changkat.png
       alt: Image alt text
-  - infopic:
-      title: Volunteer with us!
-      subtitle: Keen to give back?
-      description: Feel true happiness by giving hope and care.
-      button: sign up now
-      url: https://form.gov.sg/63e61a35b1cf750011109bd7
-      alt: Image alt text
-      image: /images/volunteer photo.jpg
 ---
