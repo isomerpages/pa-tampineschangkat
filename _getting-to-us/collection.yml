@@ -1,5 +1,0 @@
-collections:
-  getting-to-us:
-    output: true
-    order:
-      - Contact Us.md
