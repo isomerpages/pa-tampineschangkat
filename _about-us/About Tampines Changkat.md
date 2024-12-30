@@ -4,7 +4,7 @@ permalink: /about-us/About-Tampines-Changkat/
 description: ""
 variant: markdown
 ---
-**#HeartsTogether**
+# **#HeartsTogether**
 
 Tampines Changkat Community Club (CC) serves as a focal point for community engagement and activities in Tampines Changkat. 
  
