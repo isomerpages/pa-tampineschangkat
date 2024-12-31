@@ -2,24 +2,35 @@
 title: Getting To Us
 permalink: /about-us/getting-to-us/
 description: ""
+variant: markdown
 ---
-### Upgrading To Serve You Better ###
+### Find Your Way to Tampines Changkat CC ###
 
-The CC building is undergoing renovation to serve you better by Year 2024 Q1. Currently, we are located at temporary office located at **Blk 285, Tampines St 22, #01-217, Singapore 520285**. 
+We are located at **13 Tampines Street 11, Singapore 529453**. 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.58888446973043!2d103.9525943568547!3d1.3498729571478516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3d1bcfdb7f73%3A0x52b85a74bb3708a9!2sSingapore%20520285!5e0!3m2!1sen!2ssg!4v1681351630933!5m2!1sen!2ssg" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.717823994051!2d103.94487107480359!3d1.3457529986415018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3d1b59902797%3A0x54cd596152912a9a!2sTampines%20Changkat%20Community%20Club!5e0!3m2!1sen!2ssg!4v1735386083373!5m2!1sen!2ssg"></iframe>
 
 **By MRT**:
 
-*  Tampines East MRT (17 minutes walk)
+Tampines MRT Station (EW2/DT32)
+* Take the East-West Line (Green Line) or Downtown Line (Blue Line).
+* From the station, you can:
+	* Walk: Approximately 10-15 minutes.
+	* Take a bus: Transfer to Bus 291 (East Loop) or Bus 292.
 
 
 **By Bus**:
 
-*  Blk 285 - 8, 17, 18, 20, 28, 34, 39, 59, 292, 518
-*  Blk 206 - 3, 8, 17, 18, 20, 28, 34, 39, 59, 518
+From Tampines Bus Interchange:
+
+* Take Bus 291 (East Loop) or Bus 292.
+
+* Alight at 
+	* Blk 108 Tampines Street 11 (for Bus 291)
+	* Opp Blk 136 Tampines Street 11 (for Bus 292)
+
+* Walk approximately 2-3 minutes to Tampines Changkat CC.
 
 **By Car**:
 
-*  HDB Car Park in between Blk 285 and Blk 286 Tampines St 22
+*  Parking is available at nearby HDB car parks along Tampines Street 11.

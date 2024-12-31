@@ -7,22 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Welcome to Tampines Changkat CC
-      background: /images/joy box 4.jpg
-      subtitle: "#ShowingCareTheChangkatWay"
-  - infobar: {}
+      title: Welcome to Tampines Changkat Community Club!
+      background: /images/Screenshot_2024_12_28_190940.png
+      subtitle: "#HeartsTogether"
   - infopic:
-      title: Our Residents' Network
-      description: Do you know which Zone you belong to?
+      title: Which Zone am I from?
       url: //
       image: /images/details of rn under changkat.png
       alt: Image alt text
-  - infopic:
-      title: Volunteer with us
-      subtitle: Keen to contribute?
-      description: Feel true happiness by giving hope and care.
-      button: Register Today
-      url: https://form.gov.sg/63e61a35b1cf750011109bd7
-      alt: Image alt text
-      image: /images/volunteer photo.jpg
 ---
