@@ -6,8 +6,8 @@ variant: markdown
 ---
 # **#HeartsTogether**
 
-At Tampines Changkat Community Club (CC), we're all about bringing people together and creating a close-knit, caring community. With our #Heartstogether spirit, we aim to make everyone feel welcome and supported, no matter where they come from.
+At Tampines Changkat Community Club (CC), we’re all about creating a warm, caring space where everyone feels connected. With the spirit of our #HeartsTogether, we strive to build a community that looks out for one another and fosters genuine care for our neighbours.
 
-Thanks to the efforts of our amazing volunteers, we host over 30 events every year, from festive celebrations to cultural activities that help us connect, learn from each other, and build lasting friendships. These moments are all about fostering empathy, understanding, and a sense of neighbourly love.
+With the help of our dedicated volunteers, we organise over 30 events each year, including festive celebrations and cultural activities that bring us closer, encourage understanding, and nurture empathy. It is all about supporting each other, building stronger bonds, and celebrating the diverse people who call this place home.
 
-We’re proud to be a place where everyone in Tampines Changkat can come together, share experiences, and feel a true sense of belonging.
+We are proud to be a hub where care for the community thrives, helping everyone in Tampines Changkat feel valued, included, and truly at home.
