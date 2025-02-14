@@ -4,7 +4,7 @@ permalink: /tampines-changkat-cc-grand-reopening/
 variant: tiptap
 description: ""
 ---
-<h2>Tampines Changkat 40th Anniversary and Grand Reopening</h2>
+<h2>Tampines Changkat Community Club's 40th Anniversary and Grand Reopening</h2>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
