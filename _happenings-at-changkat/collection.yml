@@ -2,6 +2,7 @@ collections:
   happenings-at-changkat:
     output: true
     order:
+      - Tampines Changkat CC Grand Reopening.md
       - Sunrise Smiles.md
       - Joy Box/About Joy Box.md
       - Joy Box/FAQs.md

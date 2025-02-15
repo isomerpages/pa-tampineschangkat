@@ -13,6 +13,6 @@ sections:
   - infopic:
       title: Which Zone am I from?
       url: //
-      image: /images/details of rn under changkat.png
+      image: /images/Zones.png
       alt: Image alt text
 ---
