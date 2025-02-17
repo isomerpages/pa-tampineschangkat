@@ -8,7 +8,7 @@ variant: markdown
 
 Baju Kurung Marketplace is where fashion meets magnanimity! Every year, our generous team of volunteers and sponsors will put up a stunning collection of clothes for residents' collection to look fabulous during Hari Raya. 
 
-The latest edition of Baju Kurung Marketplace in March 2023 has exceeded our expectations! We would like to extend our gratitude to our exceptional volunteers who dedicated their time and energy to make this a triumph. 
+Our heartfelt appreciation goes out to our remarkable volunteers and sponsors, whose time and effort were instrumental in making this event a resounding success.
 
 ![](/images/img-3684.JPG)
 
