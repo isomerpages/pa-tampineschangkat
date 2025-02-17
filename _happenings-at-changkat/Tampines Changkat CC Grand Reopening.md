@@ -25,7 +25,7 @@ our diverse range of activities!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>ctivity:</p>
+<p>Activity:</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Time:</p>
