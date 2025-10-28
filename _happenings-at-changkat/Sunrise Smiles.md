@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Our belief: We firmly believe in making a positive impact on our community by providing value and affordability through our Sunrise Smiles initiative.
 
-### **Sunrise Smiles** ###
+### **Sunrise Smiles is back! Now extended for the 3rd year running!** ###
 
 - **Breakfast Set at $2.00:** Inclusive of 2 slices of bread / 1 kaya butter bun*, 1 soft boiled egg, and a cup of hot coffee / tea
 
@@ -26,7 +26,7 @@ Sundays | Fu Chan Coffeeshop @ Blk 139 Tampines Street 11 | Kim San Leng Kopitia
 
 
 **Terms and Conditions:**
-- Breakfast deals are valid from 28 October 2024 to 27 October 2025
+- Breakfast deals are valid from 28 October 2025 to 27 October 2026
 - Breakfast deals are valid for dine-in only between 7.00am to 11.00am 
 - Breakfast deals are only redeemable via self-service
 - Breakfast deals are only valid on the specific day listed for respective participating food courts and coffeeshops
