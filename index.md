@@ -16,6 +16,6 @@ sections:
   - infopic:
       title: Which Zone am I from?
       url: //
-      image: /images/Zones.png
+      image: /images/Updated_23_feb_2026__For_Webpage__12_Mar_.png
       alt: Image alt text
 ---
